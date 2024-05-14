@@ -1,0 +1,14 @@
+org\example\FactoryRecipe.class
+SearchModule\SearchingByIngredients.class
+RateModule\RatingObserver.class
+org\example\Command.class
+org\example\Recipe.class
+SearchModule\SearchingByCategories.class
+SearchModule\SearchingRecipe.class
+SearchModule\SearchStrategy.class
+RateModule\RatingRecipeDisplay.class
+SearchModule\SearchingByTags.class
+org\example\ModifyRecipe.class
+org\example\RecipeManager.class
+RateModule\RatingRecipe.class
+org\example\ModifyRecipeInvoker.class
